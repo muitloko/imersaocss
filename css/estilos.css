@@ -1,38 +1,40 @@
 body {
-    background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
-    background-size: auto 100vh;
-    font-family: Arial;
-    height: 100vh;
-  }
-  
-  .menu {
-    background-color:white;
-  }
-  
-  .menu ul {
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  .menu li {
-    list-style: none;
-  }
-  
-  a {
-    color: teal;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  .site-subtitle,
-  .site-title {
-    color: whitesmoke;
-    text-align: center;
-  }
-  
-  .site-subtitle {
-    font-style: italic;
-  }
+  background-image: url('https://http2.mlstatic.com/papel-de-parede-paisagens-universo-3d-bn-055-1m-D_NQ_NP_837651-MLB29071097463_122018-F.jpg');
+  background-size: auto 100vh;
+  font-size: 20px;
+  font-family: 'Lucida Sans';
+  height: 100vh;
+}
+
+.menu {
+  background-color: rgb(131, 7, 168);
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: rgb(81, 243, 6);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: yellow;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
